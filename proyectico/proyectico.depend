@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1502230863 source:c:\users\juanestebancg\contacts\proyecto lab\proyectico\funcioncita.cpp
+	<iostream>
+
+1502231234 source:c:\users\juanestebancg\contacts\proyecto lab\proyectico\main.cpp
+	<iostream>
+	"funciones.h"
+
+1502230032 c:\users\juanestebancg\contacts\proyecto lab\proyectico\funciones.h
+
