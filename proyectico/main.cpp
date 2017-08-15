@@ -89,7 +89,7 @@ void punto5(){
     char corto[MAXC];
     cout<<"ingrese texto largo: "<<endl;
     cin>>largo;
-    cout<<"ingrese texto cort0: "<<endl;
+    cout<<"ingrese texto corto: "<<endl;
     cin>>corto;
     int cardinalidad=strlen(largo);
     int cardinalidad2=strlen(corto);
